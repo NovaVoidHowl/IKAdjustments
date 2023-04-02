@@ -1,0 +1,23 @@
+{
+  "_id": -1,
+  "name": "IKAdjustments",
+  "modversion": "1.0.0",
+  "gameversion": "2022r170",
+  "loaderversion": "0.5.7",
+  "modtype": "Mod",
+  "author": "NotAKidoS",
+  "description": "",
+  "searchtags": [
+    "bad",
+    "fix",
+    "animator",
+    "loop"
+  ],
+  "requirements": [
+    "None"
+  ],
+  "downloadlink": "https://github.com/NotAKidOnSteam/IKAdjustments/releases/download/v1.0.0/IKAdjustments.dll",
+  "sourcelink": "https://github.com/NotAKidOnSteam/IKAdjustments/",
+  "changelog": "Initial Release",
+  "embedcolor": "7F3F99"
+}
