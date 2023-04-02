@@ -1,6 +1,8 @@
 # IKAdjustments
  Easy IK adjustments post-calibration.
 
+This mod lets you grab and adjust any TrackedPoints by Position, Rotation, or Both.
+
 ---
 
 Here is the block of text where I tell you this mod is not affiliated or endorsed by ABI. 
