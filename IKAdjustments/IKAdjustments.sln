@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKAdjustment", "IKAdjustment.csproj", "{2382A6A1-2977-4C2D-B664-702FCB1A49A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKAdjustments", "IKAdjustments.csproj", "{2382A6A1-2977-4C2D-B664-702FCB1A49A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
